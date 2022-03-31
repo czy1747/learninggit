@@ -3,3 +3,7 @@ git config --global user.email "446115786@qq.com"
 #检查信息是否写入成功
 git config --list 
 git add #加入track
+git
+
+df -h
+top
